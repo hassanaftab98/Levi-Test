@@ -15,6 +15,11 @@
 	<!-- Haalloo world -->
 	
 
+
+
+	<!-- Hallo dev2 how are you my Friend -->
+<!-- / -->
+
 		<!-- /SidBar -->
 		<?php $this->load->view('Backend/includes/sidebar'); ?>
 		<!-- /SidBar -->
